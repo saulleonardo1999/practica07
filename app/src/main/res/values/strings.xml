@@ -2,4 +2,5 @@
     <string name="app_name">Actividad Principal</string>
     <string name="boton">LANZAR SEGUNDA ACTIVIDAD</string>
     <string name="title_second_activity">Segunda Actividad</string>
+    <string name="enviar">Texto para enviar</string>
 </resources>
